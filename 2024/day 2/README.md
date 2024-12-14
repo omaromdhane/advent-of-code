@@ -1,0 +1,1 @@
+Link to the challenge on advent of code website: [link](https://adventofcode.com/2024/day/2)
